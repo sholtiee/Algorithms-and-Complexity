@@ -4,8 +4,7 @@ import java.util.List;
 
 // Задание 1: координаты пикселей в [0, 1), карманная сортировка
 // Сложность: в среднем O(n), в худшем O(n^2), память O(n)
-// Запуск: javac BucketSort.java && java BucketSort
-public class BucketSort {
+public class Task1 {
 
     public static void main(String[] args) {
         double[] arr1 = {0.25, 0.10, 0.80, 0.45};

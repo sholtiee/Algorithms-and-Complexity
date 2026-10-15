@@ -2,8 +2,7 @@ import java.util.Arrays;
 
 // Задание 2: идентификаторы от 0 до 999 999 999, поразрядная сортировка (LSD)
 // Сложность: O(d * (n + 10)), d не больше 9, то есть O(n); память O(n)
-// Запуск: javac RadixSort.java && java RadixSort
-public class RadixSort {
+public class Task2 {
 
     public static void main(String[] args) {
         int[] arr1 = {100000001, 7, 900000000};

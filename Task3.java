@@ -2,8 +2,7 @@ import java.util.Arrays;
 
 // Задание 3: уровни доступа 0..3, устойчивая сортировка подсчетом
 // Сложность: O(n + 4), то есть O(n); память O(n)
-// Запуск: javac CountingSort.java && java CountingSort
-public class CountingSort {
+public class Task3 {
 
     public static void main(String[] args) {
         int[] arr1 = {3, 0, 2, 3, 1};
